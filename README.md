@@ -10,7 +10,6 @@ Drum Game - v1.0<br/>
 
 It is a Drum Game built with JavaScript to demonstrate the usage of Event, EventHandling & Web Audio
 <br/>
-
 ![Game UI](image.png)
 
 ## Tools & Technologies
